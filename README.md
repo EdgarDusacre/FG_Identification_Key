@@ -6,6 +6,7 @@ You'll be able to find:
   - The R code we use to analysed the data. 
   - A data sheet to dowload to sort the fishing gears you collected during a beach cleaning or the realisation of a protocol. 
   - The bank of image we use to create the initial photo guide and that we sometime actualise to upload new images to improve this photo guide. 
+  - The beaufort scale in french, english and spanish
 
 ## Using the FG identification key for its structure
 

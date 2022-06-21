@@ -1,5 +1,4 @@
 # Fishing gear Identification Key
-Fishing gear Identification Key - Plasfito Project
 
 This repository is made to share all the information and files about the "identification key of the fishing gear washed-up on the coastlines or collected in the aquatic environment". 
 

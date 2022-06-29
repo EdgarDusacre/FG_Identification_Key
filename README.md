@@ -1,5 +1,6 @@
 # Fishing gear Identification Key
-This repository is made to share to all the data we collected to create identification key of the fishing gear washed-up on the coastlines are collected in the aquatic environment. 
+
+This repository is made to share all the information and files about the "identification key of the fishing gear washed-up on the coastlines or collected in the aquatic environment". 
 
 You'll be able to find:
   - The data sheet that resume the sampling protocol we did to realise the FG Identification Key. 
